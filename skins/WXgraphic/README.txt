@@ -4,8 +4,12 @@ https://github.com/glennmckechnie/weewx-WXgraphic
 This is a historic readme. It was written for the original wxgraphic.php v6.3
 It may offer insights for those who wish to know the origins of the project, or
 are looking for insights to its original structure.
-With weewx-WXgraphics and its wee_extension method of installion, this readme is
-surplus
+For the maintained WeeWX archive and current installation, see:
+https://github.com/weewx-packages/weewx-WXgraphic#readme
+
+The archive installer configures the skin and generated data. The standalone
+procedure below describes the original script only. In this WeeWX package,
+wxgraphic.php is named index.php and config.txt comes from config.txt.tmpl.
 
 ===============================================================================
 
